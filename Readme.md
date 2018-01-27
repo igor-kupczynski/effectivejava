@@ -12,7 +12,7 @@ Repository dedicated to study [*Effective Java, Third Edition*](https://www.amaz
     - `java.util.concurent`
     - `java.util.function`
 - 90 items, a rule per item
-- Accessible to anyone with a working knowledge, but still food for though for advanced
+- Accessible to anyone with a working knowledge, but still food for thought for advanced
 
 Fundamental principles:
     - Clarity and simplicity
